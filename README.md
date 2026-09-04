@@ -1,1 +1,1 @@
-# Frequency-Scanning-Based-Tool
+#PSCAD-ZTool-Analysis-GUI
